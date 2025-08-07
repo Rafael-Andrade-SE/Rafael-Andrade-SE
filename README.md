@@ -18,10 +18,10 @@ Profissional de Tecnologia da Informação com uma sólida trajetória em:
 
 Nos meus projetos pessoais, tenho me dedicado a construir APIs modernas com:
 
-- **Golang + Fiber + GORM**
-- **Docker** para ambientes replicáveis
-- **PostgreSQL** com foco em performance
-- **Integração com Flutter** para front-ends móveis
+- **Golang + Gin/GORM**, seguindo boas práticas de arquitetura (REST, Service, Repository)
+- **Docker** para ambientes replicáveis e deploy simplificado
+- **PostgreSQL** com foco em performance e integridade
+- **Integração com Flutter** para front-ends móveis nativos
 
 ---
 
@@ -30,6 +30,7 @@ Nos meus projetos pessoais, tenho me dedicado a construir APIs modernas com:
 <p>
   <img src="https://img.shields.io/badge/C%23-.NET-blue?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Golang-API-00ADD8?logo=go" />
+  <img src="https://img.shields.io/badge/Gin-GinWebFramework-00ADD8?logo=go" />
   <img src="https://img.shields.io/badge/PostgreSQL-BD-blue?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-Mobile-blue?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-DevEnv-2496ED?logo=docker&logoColor=white" />
